@@ -58,7 +58,7 @@ const Sidebar = () => {
         </div>
       </div>
 
-      <div className="bg-white  mx-1  md:m-3 p-3 h-auto md:h-[24rem]">
+      <div className="bg-white  mx-1  md:m-3 p-3 h-auto md:h-[16rem]">
         <h2 className="mb-1 md:mb-5 font-header">Recent Vehicles</h2>
         <ul>
           {[1, 2, 3, 4, 5].map((num) => (
